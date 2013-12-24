@@ -1,8 +1,8 @@
 var path = require('path');
 
 var routes = [{
-	route : 'helloworld',
-	controller : 'helloworld'
+	route : 'ChooseDest',
+	controller : 'ChooseDest'
 }];
 
 module.exports = function(app){
